@@ -1,0 +1,290 @@
+<ChanceInfo>
+	<Card>
+		<display>Lucky day get $200</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>200</money>
+	</Card>
+	<Card>
+		<display>Luckier day get $500</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>500</money>
+	</Card>
+	<Card>
+		<display>luckiest day get $1000</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>1000</money>
+	</Card>
+	<Card>
+		<display>Lucky day get $200</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>200</money>
+	</Card>
+	<Card>
+		<display>Luckier day get $500</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>500</money>
+	</Card>
+		<Card>
+		<display>Lucky day get $200</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>200</money>
+	</Card>
+	<Card>
+		<display>Lucky day get $200</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>200</money>
+	</Card>
+	<Card>
+		<display>Luckier day get $500</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>500</money>
+	</Card>
+	<Card>
+		<display>luckiest day get $1000</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>1000</money>
+	</Card>
+	<Card>
+		<display>What is this maddness? get $2000</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>2000</money>
+	</Card>
+	<Card>
+		<display>Repeat your last move</display>
+		<move>1</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+		<Card>
+		<display>Repeat your last move</display>
+		<move>1</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+		<Card>
+		<display>Repeat your last move</display>
+		<move>1</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Roll again</display>
+		<move>2</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Roll again</display>
+		<move>2</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Roll again</display>
+		<move>2</move>
+		<direction>0</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Roll again and move in any direction</display>
+		<move>2</move>
+		<direction>1</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Roll again and move in any direction</display>
+		<move>2</move>
+		<direction>1</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>move in any direction on your next turn</display>
+		<move>0</move>
+		<direction>1</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>move in any direction on your next turn</display>
+		<move>0</move>
+		<direction>1</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>move in any direction on your next turn</display>
+		<move>0</move>
+		<direction>1</direction>
+		<cash_given></cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve all cash letters</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>CASH</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve the "C" letter</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>C</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve the "C" letter</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>C</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve the "A" letter</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>A</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve the "A" letter</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>A</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve the "S" letter</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>S</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve the "S" letter</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>S</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve the "H" letter</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>H</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Recieve the "H" letter</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>H</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>0</money>
+	</Card>
+	<Card>
+		<display>Banking error, lose 100</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>A</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>-100</money>
+	</Card>
+	<Card>
+		<display>Banking error, lose 100</display>
+		<move>0</move>
+		<direction>0</direction>
+		<cash_given>A</cash_given>
+		<forced>0</forced>
+		<warp>0</warp>
+		<money>-100</money>
+	</Card>
+</ChanceInfo>
