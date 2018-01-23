@@ -32,7 +32,7 @@ public class District_Market : MonoBehaviour {
 			bce.AddListener (BuyStock);
 			n_block.onClick = bce;
 			RectTransform r_t = n_block.GetComponent<RectTransform> ();
-			r_t.localPosition = new Vector3 (140 + (87 * i) , 0 , 0);
+			r_t.localPosition = new Vector3 (160 + (87 * i) , 0 , 0);
 			buttons.Add (n_block);
 			UnityEngine.UI.Text tx = n_block.GetComponentInChildren<UnityEngine.UI.Text> ();
 			tx.text = "0";

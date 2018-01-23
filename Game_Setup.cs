@@ -23,6 +23,9 @@ public class Game_Setup : MonoBehaviour {
 		}
 		while (active_inputs.Count < amount) {
 			Player_Information_Input p_i2 = (Player_Information_Input)GameObject.Instantiate (guide, this.transform);
+			p_i2.set_up_game = this;
+			p_i2.ChangeColor (active_inputs.Count);
+
 			Vector3 position = new Vector3 (0, 0 - (30 * active_inputs.Count), 0);
 			p_i2.transform.localPosition = position;
 			active_inputs.Add (p_i2);
@@ -49,6 +52,20 @@ public class Game_Setup : MonoBehaviour {
 				Scene_Switcher.singleton.SwitchToGameScene ();
 			}
 		}
+	}
+
+	public bool ColorValidityCheck(int color, Player_Information_Input changer){
+		int color_count = 0;
+		List<int> taken_colors = new List<int> ();
+		taken_colors.Add (color);
+		foreach (Player_Information_Input p_i2 in active_inputs) {
+			if (p_i2.my_color_input.value == color) {
+				color_count++;
+			} else {
+				taken_colors.Add (p_i2.my_color_input.value);
+			}
+		}
+		return !(color_count > 1) ;
 	}
 
 	public void goalChanged(string new_goal){

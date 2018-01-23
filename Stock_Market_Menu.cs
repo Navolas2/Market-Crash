@@ -18,7 +18,7 @@ public class Stock_Market_Menu : Menu {
 	void Start () {
 		buying = true;
 		int players = Turn_Manager.singleton.players.Count;
-		float width = 160 + (86 * players);
+		float width = 200 + (86 * players);
 		float height = map_districts.Count * district_button_size;
 		RectTransform r_t = background.rectTransform;
 		r_t.sizeDelta = new Vector2 (width, height);

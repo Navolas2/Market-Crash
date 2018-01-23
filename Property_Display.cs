@@ -52,8 +52,8 @@ public class Property_Display : MonoBehaviour {
 			Value_text_static.text = "";
 			Price_text.text = "";
 			Price_text_static.text = "";
-		} else if (b_s.CompareTag ("Commission")) {
-			property_name.text = "Commission";
+		} else if (b_s.CompareTag ("Commision")) {
+			property_name.text = "Commision";
 			Value_text.text = "";
 			Value_text_static.text = "";
 			Price_text.text = "";

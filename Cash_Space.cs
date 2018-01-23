@@ -90,12 +90,12 @@ public class Cash_Space : board_space {
 			if (switch_character) {
 				Change_Character ();
 			}
-		} else if (dir == -1) {
+		} /*else if (dir == -1) {
 			if (switch_character) {
 				Reverse_Character ();
 			}
 			player.Undo_Character (Cash_Character);
-		}
+		}*/
 	}
 
 	public override void Activate_Space_Effect (Player_Information player)
